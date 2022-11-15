@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
+🌱 I’m currently learning React Redux
 <!--
 **hellene-mary/hellene-mary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
