@@ -3,9 +3,11 @@
 # 💫 About Me:
 🌱 I’m currently learning TypeScript<br>
 
-# 
-<div class="badge-base LI-profile-badge" data-locale="uk_UA" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="maria-grek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ua.linkedin.com/in/maria-grek?trk=profile-badge">Марія Грек</a></div>
-              
+#
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+            
 
 
 # 💻 Tech Stack:
