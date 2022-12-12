@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning React Redux<br>
+🌱 I’m currently learning TypeScript<br>
 
 
 # 💻 Tech Stack:
