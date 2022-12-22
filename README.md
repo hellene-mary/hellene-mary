@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning TypeScript<br>
+🌱 I’m currently learning Node.js<br>
 
 #
 ## 🔗 Links
